@@ -1,0 +1,7 @@
+{
+    "repo_name": "your-org/your-repo",
+    "branch_prefix": "feature/code_review",
+    "check_style": true,
+    "check_performance": true,
+    "check_security": true
+}
